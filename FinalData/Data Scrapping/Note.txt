@@ -1,0 +1,1 @@
+Data Scrapper was created 2 years before now, now website has been updated to data scrapping is not working as expected thats why we are using already scrapped data.
